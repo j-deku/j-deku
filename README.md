@@ -19,3 +19,5 @@ I build scalable, production-grade web applications with strong focus on backend
 ## 📫 Let's connect
 - LinkedIn: your-link  
 - Portfolio: your-link
+
+![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true)
