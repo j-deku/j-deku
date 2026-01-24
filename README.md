@@ -1,13 +1,13 @@
-# Hi, I'm Jeremiah 👋
+# Hi, I'm Jeremiah Deku 👋
 
 Full Stack Engineer (MERN, Node.js, TypeScript)  
-I build scalable, production-grade web applications with strong focus on backend systems, security, and performance.
+I build scalable, production-grade web applications with strong focus on backend systems, security, and system design.
 
 ## 🚀 What I do
 - Design and build RESTful & real-time APIs
 - Authentication systems (JWT, OAuth, 2FA, sessions)
-- Caching, queues & background jobs (Redis, BullMQ)
-- Push notifications (FCM)
+- Background jobs & queues (Redis, BullMQ)
+- Push notifications (Firebase Cloud Messaging)
 - Admin dashboards & role-based access systems
 
 ## 🛠 Tech Stack
@@ -15,13 +15,17 @@ I build scalable, production-grade web applications with strong focus on backend
 **Backend:** Node.js, Express, TypeScript  
 **Databases:** MongoDB, Redis  
 **DevOps:** Docker, Nginx, Linux  
+**Cloud:** Firebase, AWS (basic)
+
+## 🔥 Featured Projects
+- **TOLI-TOLI** – Transport admin platform with queues, Redis, FCM, and role-based access.
+- **Transbook** – Full transport booking system with authentication, cart and receipts.
+- **BlooFi** – Finance platform with modern UI and backend integrations.
 
 ## 📫 Let's connect
-- LinkedIn: your-link  
-- Portfolio: your-link
+- GitHub: https://github.com/j-deku  
+- LinkedIn: (add your link)  
+- Portfolio: (add when ready)
 
-## My Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true)
-
-## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact)
