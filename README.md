@@ -44,6 +44,11 @@ I focus on building systems that are:
 - Reduced blocking operations with asynchronous job queues.
 - Implemented secure role-based admin workflows.
 
+## Currently Exploring
+- Distributed systems patterns
+- Advanced caching strategies
+- Cloud architecture & scalability
+
 ## 📫 Let's connect
 - GitHub: https://github.com/j-deku  
 - LinkedIn: https://www.linkedin.com/in/jeremiah-deku-jdek/  
