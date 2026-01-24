@@ -21,3 +21,6 @@ I build scalable, production-grade web applications with strong focus on backend
 - Portfolio: your-link
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact)
