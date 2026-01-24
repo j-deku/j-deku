@@ -20,6 +20,7 @@ I build scalable, production-grade web applications with strong focus on backend
 - LinkedIn: your-link  
 - Portfolio: your-link
 
+## My Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true)
 
 ## Most Used Languages
