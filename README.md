@@ -1,58 +1,54 @@
-# Hi, I'm Jeremiah Deku 👋
+# Hi, I'm Jeremiah Deku 👋  
+**Full Stack Engineer | MERN | Node.js | TypeScript**
 
-Full Stack Engineer (MERN, Node.js, TypeScript)  
-I build scalable, production-grade web applications with strong focus on backend systems, security, performance, and system design.
+Building scalable, production-grade systems with strong focus on backend engineering, security, performance, and clean architecture.
 
-## Engineering Philosophy
-I focus on building systems that are:
-- Secure by design
-- Easy to maintain and extend
-- Scalable under real-world usage
-- Designed with clear separation of concerns
+---
 
-## 🚀 What I do
-- Design and build RESTful & real-time APIs
-- Authentication systems (JWT, OAuth, 2FA, sessions)
-- Background jobs & queues (Redis, BullMQ)
-- Push notifications (Firebase Cloud Messaging)
-- Admin dashboards & role-based access systems
-- Performance optimization & caching strategies
+## 🚀 What I Do
+- Design RESTful & real-time APIs  
+- Authentication systems (JWT, OAuth, 2FA)  
+- Background jobs & queues (Redis, BullMQ)  
+- Push notifications (FCM)  
+- Admin platforms & RBAC systems  
+- Performance optimization & caching  
 
-## System Design Experience
-- High-concurrency APIs
-- Event-driven background workers
-- Caching layers & data consistency
-- Rate limiting & abuse prevention
-- Secure authentication flows
-- Real-time notifications
+---
 
 ## 🛠 Tech Stack
-**Frontend:** React, React Native, MUI, Tailwind  
-**Backend:** Node.js, Express, TypeScript  
-**Databases:** MongoDB, Redis  
-**DevOps:** Docker, Nginx, Linux  
-**Cloud:** Firebase, AWS (basic)
+
+### Frontend  
+![React](https://img.shields.io/badge/React-000?logo=react)  
+![React Native](https://img.shields.io/badge/React%20Native-000?logo=react)  
+![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss)  
+![MUI](https://img.shields.io/badge/MUI-000?logo=mui)
+
+### Backend  
+![Node](https://img.shields.io/badge/Node.js-000?logo=node.js)  
+![Express](https://img.shields.io/badge/Express-000?logo=express)  
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+
+### Data & Infra  
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)  
+![Redis](https://img.shields.io/badge/Redis-000?logo=redis)  
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)  
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)  
+
+---
 
 ## 🔥 Featured Projects
-- **TOLI-TOLI** – Transport admin platform with background queues, Redis, FCM, and role-based access.
-- **Transbook** – Full transport booking system with authentication, cart, receipts, and admin workflows.
+- **TOLI-TOLI** – Transport admin platform with Redis, BullMQ, FCM, RBAC.  
+- **Transbook** – Full transport booking system with auth, cart & receipts.  
 - **BlooFi** – Finance platform with modern UI and backend integrations.
 
-## Real-world Problems Solved
-- Prevented abuse using IP allowlisting, CAPTCHA, and rate limiting.
-- Improved performance using Redis caching and background workers.
-- Reduced blocking operations with asynchronous job queues.
-- Implemented secure role-based admin workflows.
+---
 
-## Currently Exploring
-- Distributed systems patterns
-- Advanced caching strategies
-- Cloud architecture & scalability
+## 🌍 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/j-deku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/jeremiah-deku-jdek/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome)](https://github.com/j-deku/jerryDek)
 
-## 📫 Let's connect
-- GitHub: https://github.com/j-deku  
-- LinkedIn: https://www.linkedin.com/in/jeremiah-deku-jdek/  
-- Portfolio: https://github.com/j-deku/jerryDek  
+---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact)
