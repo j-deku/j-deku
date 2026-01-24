@@ -3,6 +3,8 @@
 
 Building scalable, production-grade systems with strong focus on backend engineering, security, performance, and clean architecture.
 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=j-deku)
+
 ---
 
 ## 🚀 What I Do
@@ -15,24 +17,17 @@ Building scalable, production-grade systems with strong focus on backend enginee
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend  
-![React](https://img.shields.io/badge/React-000?logo=react)  
-![React Native](https://img.shields.io/badge/React%20Native-000?logo=react)  
-![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss)  
-![MUI](https://img.shields.io/badge/MUI-000?logo=mui)
-
-### Backend  
-![Node](https://img.shields.io/badge/Node.js-000?logo=node.js)  
-![Express](https://img.shields.io/badge/Express-000?logo=express)  
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-
-### Data & Infra  
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)  
-![Redis](https://img.shields.io/badge/Redis-000?logo=redis)  
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)  
-![Linux](https://img.shields.io/badge/Linux-000?logo=linux)  
+### Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
@@ -43,10 +38,11 @@ Building scalable, production-grade systems with strong focus on backend enginee
 
 ---
 
-## 🌍 Connect with me
+### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/j-deku)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/jeremiah-deku-jdek/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-deku-jdek/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome)](https://github.com/j-deku/jerryDek)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
