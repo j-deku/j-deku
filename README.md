@@ -24,8 +24,8 @@ I build scalable, production-grade web applications with strong focus on backend
 
 ## 📫 Let's connect
 - GitHub: https://github.com/j-deku  
-- LinkedIn: (add your link)  
-- Portfolio: (add when ready)
+- LinkedIn: (https://www.linkedin.com/in/jeremiah-deku-jdek/)  
+- Portfolio: (https://github.com/j-deku/jerryDek)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact)
