@@ -1,15 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jeremiah 👋
 
+Full Stack Engineer (MERN, Node.js, TypeScript)  
+I build scalable, production-grade web applications with strong focus on backend systems, security, and performance.
 
-**j-deku/j-deku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I do
+- Design and build RESTful & real-time APIs
+- Authentication systems (JWT, OAuth, 2FA, sessions)
+- Caching, queues & background jobs (Redis, BullMQ)
+- Push notifications (FCM)
+- Admin dashboards & role-based access systems
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Frontend:** React, React Native, MUI, Tailwind  
+**Backend:** Node.js, Express, TypeScript  
+**Databases:** MongoDB, Redis  
+**DevOps:** Docker, Nginx, Linux  
 
-- 🔭 I’m currently working on Documind-AI
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Let's connect
+- LinkedIn: your-link  
+- Portfolio: your-link
