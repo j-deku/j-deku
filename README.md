@@ -16,8 +16,18 @@ Full Stack Engineer (Backend-Focused) | Node.js, TypeScript, MERN | <br>I build 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=j-deku&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 🚀 What I Do
+- Design **RESTful & real-time APIs**  
+- Authentication systems (**JWT, OAuth, 2FA**)  
+- Background jobs & queues (**Redis, BullMQ**)  
+- Push notifications (**Firebase Cloud Messaging**)  
+- Admin dashboards & **role-based access control**  
+- Performance optimization & caching strategies  
+
+---
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=j-deku&limit=5&theme=dark&combine_all_yearly_contributions=true)
