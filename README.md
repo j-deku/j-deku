@@ -6,7 +6,7 @@ I design and build **scalable, secure, production-grade systems**.
 Strong focus on backend architecture, performance, security, and real-world engineering problems.
 
 Currently building production systems with Node.js, Redis and TypeScript.
-
+Building systems used by real users • Obsessed with performance & reliability
 ---
 ## Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/j-deku)
@@ -41,13 +41,20 @@ Currently building production systems with Node.js, Redis and TypeScript.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 🚀 What I Work On
-- Designing **REST & real-time APIs**
-- Auth systems (**JWT, OAuth, 2FA, sessions**)
-- **Redis caching & async job queues**
-- Secure **admin systems & RBAC**
-- Push notifications (FCM)
-- Performance tuning & system design
+## 🚀 What I Build
+- Production APIs handling real-world traffic
+- Secure auth systems for business-critical apps
+- High-performance Redis-backed services
+- Admin platforms for operations teams
+- Systems designed for scale, not demos
+
+## 🧠 System Design Focus
+- Scalable API architecture
+- Caching strategies (Redis, CDN, in-memory)
+- Queue-based async processing
+- Rate limiting & abuse prevention
+- Fault tolerance & graceful degradation
+
 ---
 ## 📊 GitHub Activity
 ![](https://nirzak-streak-stats.vercel.app/?user=j-deku&theme=dark&hide_border=false)
@@ -62,5 +69,8 @@ Currently building production systems with Node.js, Redis and TypeScript.
   Full transport booking system with auth, cart, receipts and backend optimizations for performance.
 
 - **[BlooFi](https://github.com/j-deku/BlooFi)**  
-  E-commerce platform with modern, cart, booking, UI and backend integrations.
+  Full-stack commerce platform with payment flows, auth, cart and order lifecycle.
 ---
+## 🗺 System Architecture – DocumindAi
+![Diagrams](https://github.com/user-attachments/assets/eabfde86-5cc8-4a83-8744-e42a1842e55b)
+
