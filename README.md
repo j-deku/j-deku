@@ -56,11 +56,11 @@ Currently building production systems with Node.js, Redis and TypeScript.
 ---
 ## 🔥 Featured Projects
 - **[TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI)**  
-  Transport admin platform with Redis queues, RBAC, FCM and real-time workflows.
+  Transport admin platform handling real-time workflows, Redis queues and RBAC for scalable operations.
 
 - **[Transbook](https://github.com/j-deku/Transbook)**  
-  Full transport booking system with auth, cart, receipts and backend optimizations.
+  Full transport booking system with auth, cart, receipts and backend optimizations for performance.
 
 - **[BlooFi](https://github.com/j-deku/BlooFi)**  
-  Finance platform with modern UI and backend integrations.
+  E-commerce platform with modern, cart, booking, UI and backend integrations.
 ---
