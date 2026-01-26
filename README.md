@@ -13,7 +13,11 @@ Focused on reliability, speed, and impact.
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white)](https://github.com/j-deku/jerryDek "Visit My Personal Platform")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-deku-jdek/ "View My LinkedIn Profile") 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29995538 "Check My Questions")
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com "Message Me") 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com "Message Me")<br>
+(Call Line): 
+```bash 
++233246062758
+```
 
 ---
 ## 🛠 Core Tech Stack:
