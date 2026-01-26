@@ -75,5 +75,5 @@ Focused on reliability, speed, and impact.
 - **[BlooFi](https://github.com/j-deku/BlooFi)**  
   Full-stack commerce platform with payment flows, auth, cart and order lifecycle.
 ---
-## 🗺 System Architecture – DocumindAi
+## 🗺 System Architecture – DocumindAi (🟢current work)
 ![Diagrams](https://github.com/user-attachments/assets/eabfde86-5cc8-4a83-8744-e42a1842e55b)
