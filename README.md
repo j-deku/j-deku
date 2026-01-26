@@ -59,7 +59,7 @@ Strong focus on backend architecture, performance, security, and real-world engi
 ![](https://nirzak-streak-stats.vercel.app/?user=j-deku&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact&theme=radical)
 
-**(Last Year)**<br>
+### **(Last Year)**
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true&theme=radical) 
 
 ---
