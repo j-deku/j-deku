@@ -5,6 +5,8 @@
 I design and build **scalable, secure, production-grade systems**.
 Strong focus on backend architecture, performance, security, and real-world engineering problems.
 
+Currently building production systems with Node.js, Redis and TypeScript.
+
 ---
 ## Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/j-deku)
@@ -13,14 +15,6 @@ Strong focus on backend architecture, performance, security, and real-world engi
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29995538)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com) 
 
----
-## What I Do
-- Design **RESTful & real-time APIs**
-- Authentication systems (**JWT, OAuth, 2FA**)
-- Background jobs & queues (**Redis, BullMQ**)
-- Push notifications (**Firebase Cloud Messaging**)
-- Admin dashboards & **RBAC**
-- Performance optimization & caching
 ---
 ## 🛠 Core Tech Stack:
 **Frontend:**<br>
@@ -58,9 +52,6 @@ Strong focus on backend architecture, performance, security, and real-world engi
 ## 📊 GitHub Activity
 ![](https://nirzak-streak-stats.vercel.app/?user=j-deku&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact&theme=radical)
-
-### **(Last Year)**
-![Stats](https://github-readme-stats.vercel.app/api?username=j-deku&show_icons=true&theme=radical) 
 
 ---
 ## 🔥 Featured Projects
