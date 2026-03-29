@@ -20,7 +20,7 @@ Focused on reliability, speed, and impact.
 ```
 
 ---
-## 🛠 Core Tech Stack:
+## Core Tech Stack:
 **Frontend:**<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -46,26 +46,26 @@ Focused on reliability, speed, and impact.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 🚀 What I Build
+## What I Build
 - Production APIs handling real-world traffic
 - Secure auth systems for business-critical apps
 - High-performance Redis-backed services
 - Admin platforms for operations teams
 - Systems designed for scale, not demos
 
-## 🧠 System Design Focus
+## System Design Focus
 - Scalable API architecture
 - Caching strategies (Redis, CDN, in-memory)
 - Queue-based async processing
 - Rate limiting & abuse prevention
 - Fault tolerance & graceful degradation
 ---
-## 📊 GitHub Activity
+## GitHub Activity
 ![](https://nirzak-streak-stats.vercel.app/?user=j-deku&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact&theme=radical)
 
 ---
-## 🔥 Featured Projects
+## Featured Projects
 - **[TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI)**  
   Transport admin platform handling real-time workflows, Redis queues and RBAC for scalable operations.
 
@@ -75,5 +75,5 @@ Focused on reliability, speed, and impact.
 - **[BlooFi](https://github.com/j-deku/BlooFi)**  
   Full-stack commerce platform with payment flows, auth, cart and order lifecycle.
 ---
-## 🗺 System Architecture – DocumindAi (🟢current work)
+## System Architecture – DocumindAi (🟢current work)
 ![Diagrams](https://github.com/user-attachments/assets/eabfde86-5cc8-4a83-8744-e42a1842e55b)
