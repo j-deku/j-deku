@@ -12,13 +12,13 @@ I specialize in Node.js/TypeScript backends that scale - building secure, produc
 
 ## About Me
 
-Mid-level backend engineer with 3+ years of hands-on experience building production systems that handle real-world traffic. Proven expertise in designing scalable APIs, implementing secure authentication flows, and optimizing performance through strategic caching and queue management. I focus on shipping reliable, maintainable code that serves business goals while maintaining system resilience.
+Backend-focused full stack engineer with hands-on experience building production systems from scratch. I design scalable APIs, implement secure authentication flows, and optimize performance through strategic caching and queue management. I focus on shipping reliable, maintainable code that serves real business goals.
 
 **What I bring:**
-- 🏗️ **Scalable Architecture**: Designed systems handling 1000+ concurrent users with sub-200ms response times
-- 🔐 **Security-First**: Implemented OAuth/JWT auth flows, RBAC admin panels, and payment integrations (Paystack)
-- ⚡ **Performance**: Redis caching, queue-based async processing, rate limiting, and CDN optimization
-- 🚀 **DevOps Maturity**: Docker containerization, Nginx reverse proxy, Linux server management
+- **Scalable Architecture**: Multi-tenant API design with RBAC, queue management, and real-time capabilities
+- **Security-First**: OAuth/JWT auth flows, role-based access control, and payment integrations (Paystack)
+- **Performance**: Redis caching, async queue processing, rate limiting, and optimized database queries
+- **DevOps Maturity**: Docker containerization, Nginx reverse proxy, Linux server management
 
 ---
 
@@ -69,9 +69,9 @@ Mid-level backend engineer with 3+ years of hands-on experience building product
 
 ## What I Build
 
-- Production APIs handling real-world traffic (1000+ concurrent users)
+- Production APIs built for real-world traffic and operational reliability
 - Secure auth systems with OAuth and JWT for business-critical apps
-- High-performance Redis-backed services and queue management
+- High-performance Redis-backed services and async queue management
 - Admin platforms with RBAC for operations teams
 - Full-stack systems designed for scale, not demos
 
@@ -89,12 +89,13 @@ Mid-level backend engineer with 3+ years of hands-on experience building product
 
 ### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) -- [Live Frontend](https://toli-toli.mokpokpo.com)
 
-> A production-grade advance transport booking platform - think Uber for scheduled rides. Passengers book trips in advance, drivers receive automated alerts via FCM, and the system intelligently manages seat availability per route with real-time updates using Socket.io. Integrated payment processing with Paystack and OAuth social login.
+> A production-grade advance transport booking platform - think Uber, built for scheduled rides. Passengers book trips in advance, drivers receive automated FCM alerts, and a unique seat management system lets drivers reserve slots for their own agents/regular customers per route. Real-time updates via Socket.io, secure payments via Paystack, and full OAuth/JWT auth - serving passengers, drivers, and admins in one unified system.
 
-**Key Achievements:**
-- Architected multi-tenant API handling 1000+ daily active riders
-- Implemented Redis-backed rate limiting and real-time seat reservation system
-- Optimized query performance achieving sub-200ms avg response time
+**Engineering highlights:**
+- Designed a multi-role system (passengers, drivers, admins) with full RBAC from scratch
+- Built a real-time seat reservation engine with Redis to prevent double-booking
+- Implemented async notification queues with FCM for reliable driver alerting
+- Deployed with Docker and Nginx with environment-based configuration
 
 `Node.js` `Express` `MySQL` `Redis` `React` `Vite` `Socket.io` `FCM` `JWT` `OAuth` `Paystack` `Docker` `Nginx`
 
@@ -102,12 +103,13 @@ Mid-level backend engineer with 3+ years of hands-on experience building product
 
 ### [BlooFi](https://github.com/j-deku/BlooFi) -- [Live Frontend](https://bloofi.vercel.app)
 
-> A full-stack e-commerce platform where registered users can browse, search, and order products with a fast-loading UI. Features product categorization, advanced search querying, persistent cart management, secure checkout flow, and payment processing through Paystack.
+> A full-stack e-commerce platform where registered users can browse, search, and order products with a fast-loading UI. Features product categorization, search querying, persistent cart management, secure checkout, and Paystack payment integration. Separate admin and user dashboards for full operational control.
 
-**Key Achievements:**
-- Built high-performance search with indexed queries and Redis caching
-- Implemented JWT-based session management with OAuth integration
-- Optimized frontend with Vite for < 2s first contentful paint
+**Engineering highlights:**
+- Built product search with indexed queries and category-based filtering
+- Implemented JWT session management with OAuth social login
+- Optimized frontend bundle with Vite for fast initial page loads
+- Designed dual-dashboard architecture separating admin and user concerns
 
 `Node.js` `Express` `MongoDB` `React` `Vite` `Paystack` `JWT` `OAuth`
 
@@ -115,7 +117,7 @@ Mid-level backend engineer with 3+ years of hands-on experience building product
 
 ### [Transbook](https://github.com/j-deku/Transbook)
 
-> An early-stage transport booking MVP demonstrating core booking flow validation. Passengers book rides in advance, drivers receive real-time notifications, seat availability is managed per route, and payments are processed securely.
+> An early-stage transport booking MVP sharing TOLI-TOLI's core booking flow - passengers book rides in advance, drivers get notified, seat availability is managed per route, and payments are processed via Paystack. Built as a rapid iteration MVP to validate core booking functionality.
 
 `Node.js` `Express` `MongoDB` `React` `Paystack` `JWT` `OAuth`
 
@@ -123,7 +125,7 @@ Mid-level backend engineer with 3+ years of hands-on experience building product
 
 ### DocumindAi ![In Development](https://img.shields.io/badge/In%20Active%20Development-yellow?style=flat-square)
 
-> An AI-powered workplace assistant that reduces forgetfulness in digital workflows. Monitors user activity, predicts likely forgetful steps - like closing unsaved documents - and delivers timely interventions with machine learning models trained on behavioral patterns.
+> An AI-powered workplace assistant that reduces forgetfulness in digital workflows. Monitors user activity, predicts likely forgetful steps - like closing unsaved documents - and delivers timely reminders and smart suggestions to help office teams stay on top of their digital work before mistakes happen.
 
 `Python` `AI/ML` `Behavioral Analytics`
 
@@ -144,6 +146,6 @@ Mid-level backend engineer with 3+ years of hands-on experience building product
 
 ## Let's Build Something Great
 
-Available for full-stack engineering roles, backend-heavy positions, and system design challenges. Whether you're scaling a product, building a new platform, or optimizing performance — I'm ready to contribute.
+Available for full-stack engineering roles, backend-heavy positions, and system design challenges. Whether you're scaling a product, building a new platform, or optimizing existing systems - I'm ready to contribute.
 
-**📧 [Get in touch](mailto:jdeku573@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jeremiah-deku-jdek/) | 🔗 [GitHub](https://github.com/j-deku)**
+**[Get in touch](mailto:jdeku573@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeremiah-deku-jdek/) | [GitHub](https://github.com/j-deku)**
