@@ -87,7 +87,7 @@ Backend-focused full stack engineer with hands-on experience building production
 
 ## Featured Projects
 
-### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) -- [Live Frontend](https://toli-toli.mokpokpo.com)
+### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) | [Live Frontend](https://toli-toli.mokpokpo.com)
 
 > A production-grade advance transport booking platform - think Uber, built for scheduled rides. Passengers book trips in advance, drivers receive automated FCM alerts, and a unique seat management system lets drivers reserve slots for their own agents/regular customers per route. Real-time updates via Socket.io, secure payments via Paystack, and full OAuth/JWT auth - serving passengers, drivers, and admins in one unified system.
 
@@ -101,7 +101,7 @@ Backend-focused full stack engineer with hands-on experience building production
 
 ---
 
-### [BlooFi](https://github.com/j-deku/BlooFi) -- [Live Frontend](https://bloofi.vercel.app)
+### [BlooFi](https://github.com/j-deku/BlooFi) | [Live Frontend](https://bloofi.vercel.app)
 
 > A full-stack e-commerce platform where registered users can browse, search, and order products with a fast-loading UI. Features product categorization, search querying, persistent cart management, secure checkout, and Paystack payment integration. Separate admin and user dashboards for full operational control.
 
