@@ -1,22 +1,149 @@
-# j-deku
+![Banner](https://github.com/user-attachments/assets/1a0ab5dc-bb55-4e37-b176-598d3496527b)
 
-## About
-Welcome to the j-deku project! Our mission is to provide a comprehensive solution for [briefly describe the main goal of your project]. This project is designed to help [target audience] achieve [benefits/solutions].
+# Jeremiah Deku
 
-## Project Description
-The j-deku project enables users to [detailed description of the project's features and functionalities]. Our key features include:
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
-- **Feature 3**: Description of feature 3.
+**Backend-Focused Full Stack Engineer | Node.js | TypeScript | Systems that scale**
 
-## Achievements
-- ✅ Successfully completed [specific milestone or feature launch].
-- ✅ Featured in [any noteworthy publications, events, or platforms].
-- ✅ Gained a community of [number] users.
+I specialize in Node.js/TypeScript backends that scale - building secure, production-grade systems designed for reliability, speed, and real-world impact.
 
-## Call to Action
-We invite you to contribute to this project! Whether you want to report an issue, suggest a feature, or contribute code, your input is invaluable. Join us on our journey to enhance and expand the j-deku project!  
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge) ![Remote & On-site](https://img.shields.io/badge/Remote%20%26%20On--site-blue?style=for-the-badge)
 
-For any inquiries or to get started, please reach out to us at [contact information].  
+---
 
-Thank you for your interest, and happy coding!
+## About Me
+
+Mid-level backend engineer with 3+ years of hands-on experience building production systems that handle real-world traffic. Proven expertise in designing scalable APIs, implementing secure authentication flows, and optimizing performance through strategic caching and queue management. I focus on shipping reliable, maintainable code that serves business goals while maintaining system resilience.
+
+**What I bring:**
+- 🏗️ **Scalable Architecture**: Designed systems handling 1000+ concurrent users with sub-200ms response times
+- 🔐 **Security-First**: Implemented OAuth/JWT auth flows, RBAC admin panels, and payment integrations (Paystack)
+- ⚡ **Performance**: Redis caching, queue-based async processing, rate limiting, and CDN optimization
+- 🚀 **DevOps Maturity**: Docker containerization, Nginx reverse proxy, Linux server management
+
+---
+
+## Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/j-deku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white)](https://github.com/j-deku/jerryDek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-deku-jdek/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29995538)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com)
+
+---
+
+## Core Tech Stack
+
+**Frontend:**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend / DevOps:**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Data & Infra:**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Auth & Payments:**
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white)
+
+---
+
+## What I Build
+
+- Production APIs handling real-world traffic (1000+ concurrent users)
+- Secure auth systems with OAuth and JWT for business-critical apps
+- High-performance Redis-backed services and queue management
+- Admin platforms with RBAC for operations teams
+- Full-stack systems designed for scale, not demos
+
+## System Design Focus
+
+- Scalable API architecture with load balancing
+- Caching strategies (Redis, CDN, in-memory)
+- Queue-based async processing
+- Rate limiting and abuse prevention
+- Fault tolerance and graceful degradation
+
+---
+
+## Featured Projects
+
+### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) -- [Live Frontend](https://toli-toli.mokpokpo.com)
+
+> A production-grade advance transport booking platform - think Uber for scheduled rides. Passengers book trips in advance, drivers receive automated alerts via FCM, and the system intelligently manages seat availability per route with real-time updates using Socket.io. Integrated payment processing with Paystack and OAuth social login.
+
+**Key Achievements:**
+- Architected multi-tenant API handling 1000+ daily active riders
+- Implemented Redis-backed rate limiting and real-time seat reservation system
+- Optimized query performance achieving sub-200ms avg response time
+
+`Node.js` `Express` `MySQL` `Redis` `React` `Vite` `Socket.io` `FCM` `JWT` `OAuth` `Paystack` `Docker` `Nginx`
+
+---
+
+### [BlooFi](https://github.com/j-deku/BlooFi) -- [Live Frontend](https://bloofi.vercel.app)
+
+> A full-stack e-commerce platform where registered users can browse, search, and order products with a fast-loading UI. Features product categorization, advanced search querying, persistent cart management, secure checkout flow, and payment processing through Paystack.
+
+**Key Achievements:**
+- Built high-performance search with indexed queries and Redis caching
+- Implemented JWT-based session management with OAuth integration
+- Optimized frontend with Vite for < 2s first contentful paint
+
+`Node.js` `Express` `MongoDB` `React` `Vite` `Paystack` `JWT` `OAuth`
+
+---
+
+### [Transbook](https://github.com/j-deku/Transbook)
+
+> An early-stage transport booking MVP demonstrating core booking flow validation. Passengers book rides in advance, drivers receive real-time notifications, seat availability is managed per route, and payments are processed securely.
+
+`Node.js` `Express` `MongoDB` `React` `Paystack` `JWT` `OAuth`
+
+---
+
+### DocumindAi ![In Development](https://img.shields.io/badge/In%20Active%20Development-yellow?style=flat-square)
+
+> An AI-powered workplace assistant that reduces forgetfulness in digital workflows. Monitors user activity, predicts likely forgetful steps - like closing unsaved documents - and delivers timely interventions with machine learning models trained on behavioral patterns.
+
+`Python` `AI/ML` `Behavioral Analytics`
+
+---
+
+## System Architecture - DocumindAi
+
+![Diagrams](https://github.com/user-attachments/assets/eabfde86-5cc8-4a83-8744-e42a1842e55b)
+
+---
+
+## GitHub Activity
+
+![](https://nirzak-streak-stats.vercel.app/?user=j-deku&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-deku&layout=compact&theme=radical)
+
+---
+
+## Let's Build Something Great
+
+Available for full-stack engineering roles, backend-heavy positions, and system design challenges. Whether you're scaling a product, building a new platform, or optimizing performance — I'm ready to contribute.
+
+**📧 [Get in touch](mailto:jdeku573@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jeremiah-deku-jdek/) | 🔗 [GitHub](https://github.com/j-deku)**
