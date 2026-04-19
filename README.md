@@ -1,21 +1,22 @@
 ![Banner](https://github.com/user-attachments/assets/1a0ab5dc-bb55-4e37-b176-598d3496527b)
 
 # Jeremiah Deku
-**Backend-Focused Full Stack Engineer Â· Node.js Â· TypeScript Â· Systems that scale**
 
-I specialize in Node.js/TypeScript backends that scale â€” building secure, production-grade systems designed for reliability, speed, and real-world impact.
+**Backend-Focused Full Stack Engineer | Node.js | TypeScript | Systems that scale**
 
-ðŸŸ¢ **Open to full-stack opportunities Â· Remote & on-site**
+I specialize in Node.js/TypeScript backends that scale - building secure, production-grade systems designed for reliability, speed, and real-world impact.
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge) ![Remote & On-site](https://img.shields.io/badge/Remote%20%26%20On--site-blue?style=for-the-badge)
 
 ---
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/j-deku "Check my GitHub repositories")
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white)](https://github.com/j-deku/jerryDek "Visit My Personal Platform")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-deku-jdek/ "View My LinkedIn Profile")
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29995538 "Check My Questions")
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com "Message Me")
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/j-deku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white)](https://github.com/j-deku/jerryDek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-deku-jdek/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29995538)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com)
 
 ---
 
@@ -55,9 +56,9 @@ I specialize in Node.js/TypeScript backends that scale â€” building secure,
 ---
 
 ## What I Build
- 
+
 - Production APIs handling real-world traffic
-- Secure auth systems with OAuth & JWT for business-critical apps
+- Secure auth systems with OAuth and JWT for business-critical apps
 - High-performance Redis-backed services and queue management
 - Admin platforms with RBAC for operations teams
 - Full-stack systems designed for scale, not demos
@@ -67,16 +68,16 @@ I specialize in Node.js/TypeScript backends that scale â€” building secure,
 - Scalable API architecture
 - Caching strategies (Redis, CDN, in-memory)
 - Queue-based async processing
-- Rate limiting & abuse prevention
-- Fault tolerance & graceful degradation
+- Rate limiting and abuse prevention
+- Fault tolerance and graceful degradation
 
 ---
 
 ## Featured Projects
 
-### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) Â· [ðŸ”— Live Frontend](https://toli-toli.mokpokpo.com)
+### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) -- [Live Frontend](https://toli-toli.mokpokpo.com)
 
-> A production-grade advance transport booking platform â€” think Uber, built for scheduled rides. Passengers book trips in advance, drivers receive automated alerts, and a unique seat management system lets drivers reserve slots for their own agents/regular customers per route. Features real-time booking, Redis queue management, RBAC, FCM push notifications, Paystack payment integration, and OAuth/JWT auth â€” serving passengers, drivers, and admins in one unified system.
+> A production-grade advance transport booking platform - think Uber, built for scheduled rides. Passengers book trips in advance, drivers receive automated alerts, and a unique seat management system lets drivers reserve slots for their own agents/regular customers per route. Features real-time booking, Redis queue management, RBAC, FCM push notifications, Paystack payment integration, and OAuth/JWT auth - serving passengers, drivers, and admins in one unified system.
 
 `Node.js` `Express` `MySQL` `Redis` `React` `Vite` `Socket.io` `FCM` `JWT` `OAuth` `Paystack` `Docker` `Nginx`
 
@@ -84,13 +85,13 @@ I specialize in Node.js/TypeScript backends that scale â€” building secure,
 
 ### [Transbook](https://github.com/j-deku/Transbook)
 
-> An early-stage transport booking MVP sharing TOLI-TOLI's core booking flow â€” passengers book rides in advance, drivers get notified, seat availability is managed per route, and payments are processed via Paystack. Built for rapid iteration on core booking functionality.
+> An early-stage transport booking MVP sharing TOLI-TOLI's core booking flow - passengers book rides in advance, drivers get notified, seat availability is managed per route, and payments are processed via Paystack. Built for rapid iteration on core booking functionality.
 
 `Node.js` `Express` `MongoDB` `React` `Paystack` `JWT` `OAuth`
 
 ---
 
-### [BlooFi](https://github.com/j-deku/BlooFi) Â· [ðŸ”— Live Frontend](https://bloofi.vercel.app)
+### [BlooFi](https://github.com/j-deku/BlooFi) -- [Live Frontend](https://bloofi.vercel.app)
 
 > A full-stack e-commerce platform where registered users can browse, search, and order products with a fast-loading UI. Features product categorization, search querying, cart management, checkout with Paystack integration, and separate admin and user dashboards for full operational control. Secured with OAuth and JWT auth throughout.
 
@@ -98,15 +99,15 @@ I specialize in Node.js/TypeScript backends that scale â€” building secure,
 
 ---
 
-### DocumindAi ðŸŸ¢ *(In active development)*
+### DocumindAi ![In Development](https://img.shields.io/badge/In%20Active%20Development-yellow?style=flat-square)
 
-> An AI-powered workplace assistant that reduces forgetfulness in digital workflows. Monitors user activity, predicts likely forgetful steps â€” like closing unsaved documents â€” and delivers timely reminders and smart suggestions. Built to help office teams stay on top of their digital work before mistakes happen.
+> An AI-powered workplace assistant that reduces forgetfulness in digital workflows. Monitors user activity, predicts likely forgetful steps - like closing unsaved documents - and delivers timely reminders and smart suggestions. Built to help office teams stay on top of their digital work before mistakes happen.
 
 `Python` `AI/ML`
 
 ---
 
-## System Architecture â€“ DocumindAi
+## System Architecture - DocumindAi
 
 ![Diagrams](https://github.com/user-attachments/assets/eabfde86-5cc8-4a83-8744-e42a1842e55b)
 
@@ -119,4 +120,4 @@ I specialize in Node.js/TypeScript backends that scale â€” building secure,
 
 ---
 
-*Available for full-stack engineering roles Â· Remote & on-site Â· [jdeku573@gmail.com](mailto:jdeku573@gmail.com)*
+*Available for full-stack engineering roles | Remote and on-site | jdeku573@gmail.com*
