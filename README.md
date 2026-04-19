@@ -67,7 +67,7 @@ https://www.linkedin.com/in/jeremiah-deku-jdek/
 ---
 ## Featured Projects
 - **[TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI)**  
-  A production-grade transport booking platform built from scratch, serving passengers, drivers, and admins in a unified system. Features real-time booking and tracking, Redis-powered queue management, role-based access control (RBAC), push notifications via FCM, and secure auth with JWT & OAuth. Built with Node.js, Express, MySQL, Redis, and React.
+  A production-grade advance transport booking platform — think Uber, but built for scheduled rides. Passengers book trips in advance, drivers receive automated alerts, and a unique seat management system lets drivers reserve slots for their own agents/regular customers per route. Features real-time booking, Redis queue management, RBAC, FCM push notifications, and OAuth/JWT auth — serving passengers, drivers, and admins in one unified system. Built with Node.js, Express, MySQL, Redis, React, and Vite.
 
 - **[Transbook](https://github.com/j-deku/Transbook)**  
   Full transport booking system with auth, cart, receipts and backend optimizations for performance.
