@@ -1,6 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/1a0ab5dc-bb55-4e37-b176-598d3496527b)
 
 # Jeremiah Deku
+
 **Backend-Focused Full Stack Engineer | Node.js | TypeScript | Systems that scale**
 
 I specialize in Node.js/TypeScript backends that scale - building secure, production-grade systems designed for reliability, speed, and real-world impact.
@@ -24,7 +25,7 @@ Backend-focused full stack engineer with hands-on experience building production
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/j-deku)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white)](https://j-deku.github.io/jerryDek/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white)](https://github.com/j-deku/jerryDek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-deku-jdek/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29995538)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdeku573@gmail.com)
@@ -86,9 +87,11 @@ Backend-focused full stack engineer with hands-on experience building production
 
 ## Featured Projects
 
-### [TOLI-TOLI](https://github.com/j-deku/TOLI-TOLI) | [Live Frontend](https://toli-toli.mokpokpo.com)
+### TOLI-TOLI -- [Live Frontend](https://toli-toli.mokpokpo.com) ![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square)
 
 > A production-grade advance transport booking platform - think Uber, built for scheduled rides. Passengers book trips in advance, drivers receive automated FCM alerts, and a unique seat management system lets drivers reserve slots for their own agents/regular customers per route. Real-time updates via Socket.io, secure payments via Paystack, and full OAuth/JWT auth - serving passengers, drivers, and admins in one unified system.
+
+> This repository is private as TOLI-TOLI is being developed for commercial use. The codebase is available for review upon request - feel free to [reach out](mailto:jdeku573@gmail.com).
 
 **Engineering highlights:**
 - Designed a multi-role system (passengers, drivers, admins) with full RBAC from scratch
@@ -100,7 +103,7 @@ Backend-focused full stack engineer with hands-on experience building production
 
 ---
 
-### [BlooFi](https://github.com/j-deku/BlooFi) | [Live Frontend](https://bloofi.vercel.app)
+### [BlooFi](https://github.com/j-deku/BlooFi) -- [Live Frontend](https://bloofi.vercel.app)
 
 > A full-stack e-commerce platform where registered users can browse, search, and order products with a fast-loading UI. Features product categorization, search querying, persistent cart management, secure checkout, and Paystack payment integration. Separate admin and user dashboards for full operational control.
 
